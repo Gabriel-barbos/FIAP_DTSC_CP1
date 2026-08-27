@@ -19,20 +19,13 @@ projeto/
 
 ## Como Configurar o Ambiente
 
-Recomendamos utilizar o Python 3.10 ou superior.
 
 1. Criar e ativar o ambiente virtual:
 
-# No Windows PowerShell:
 python -m venv .venv
 .venv\Scripts\Activate.ps1
 
-# No Linux/macOS:
-python3 -m venv .venv
-source .venv/bin/activate
 
-2. Instalar as dependências:
-pip install -r requirements.txt
 
 ## Como Executar
 
@@ -72,4 +65,10 @@ O modelo escolhido para produção foi a Regressão Linear Múltipla, que equili
 - Lembramos que correlação e associação estatística não significam causalidade física direta.
 
 ## Integrantes do Grupo
+
+Vitor Carvalho Alexandre RM: 562298
+Alexandre Martins Lucas RM:561732
+Pedro Rodrigues Almeida RM:564711
+Gabriel Barbosa da Silva RM: 570133
+
 Trabalho desenvolvido para o Checkpoint 4 da FIAP.
